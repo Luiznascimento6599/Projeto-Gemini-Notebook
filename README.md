@@ -118,9 +118,10 @@ Para sintetizar os principais tópicos do ciclo de vida da análise de dados, fo
 
 Acesse o material de estudo e os artefatos nos links abaixo:
 
-* 📓 **Notebook Principal:** [Notebook do Projeto no Google NotebookLM](https://notebook.google.com/notebook/0ef546b5-a56c-42da-b07b-000308383915)
-* 🧠 **Mapa Mental:** [Visualizar Mapa Mental](https://notebook.google.com/notebook/0ef546b5-a56c-42da-b07b-000308383915/artifact/0a27c944-8e77-4045-9773-64f7b077a794?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
-* 📖 **Guia de Estudos:** [Acessar Guia de Estudos](https://notebook.google.com/notebook/0ef546b5-a56c-42da-b07b-000308383915/artifact/21183ebd-fbed-4900-9d9b-759494506cc0?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
-* 🎥 **Material Multimídia / Vídeo:** [Assistir ao Conteúdo](https://notebook.google.com/notebook/0ef546b5-a56c-42da-b07b-000308383915/artifact/1329b151-5d9e-4da2-baed-16131c09bebe?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
-* 🖼️ **Foto 1:** [Visualizar Imagem](assets/Captura%20de%20tela%20de%202026-10-02%2020-53-24.png)
-* 🖼️ **Foto 2:** [Visualizar Imagem](assets/Captura%20de%20tela%20de%202026-10-02%2021-51-54.png)
+* 📓 **Notebook Principal:** <a href="https://notebook.google.com/notebook/0ef546b5-a56c-42da-b07b-000308383915" target="_blank" rel="noopener noreferrer">Notebook do Projeto no Google NotebookLM</a>
+* 🧠 **Mapa Mental:** <a href="https://notebook.google.com/notebook/0ef546b5-a56c-42da-b07b-000308383915/artifact/0a27c944-8e77-4045-9773-64f7b077a794?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_" target="_blank" rel="noopener noreferrer">Visualizar Mapa Mental</a>
+* 📖 **Guia de Estudos:** <a href="https://notebook.google.com/notebook/0ef546b5-a56c-42da-b07b-000308383915/artifact/21183ebd-fbed-4900-9d9b-759494506cc0?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_" target="_blank" rel="noopener noreferrer">Acessar Guia de Estudos</a>
+* 🎥 **Material Multimídia / Vídeo:** <a href="https://notebook.google.com/notebook/0ef546b5-a56c-42da-b07b-000308383915/artifact/1329b151-5d9e-4da2-baed-16131c09bebe?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_" target="_blank" rel="noopener noreferrer">Assistir ao Conteúdo</a>
+* 🖼️ **Foto 1:** <a href="assets/Captura%20de%20tela%20de%202026-10-02%2020-53-24.png" target="_blank" rel="noopener noreferrer">Visualizar Imagem</a>
+* 🖼️ **Foto 2:** <a href="assets/Captura%20de%20tela%20de%202026-10-02%2021-51-54.png" target="_blank" rel="noopener noreferrer">Visualizar Imagem</a>
+
